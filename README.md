@@ -10,7 +10,7 @@ Simple Irssi Script ( bot ) perl - current version of Irrsi bot 1.0
 - !voice <#channel> nick - +v/voice nick in channel
 - !topic <#channel> text - set topic in channel 
 - !join <#channel> - join channel
-- !part <#channel> - part chanel
+- !part <#channel> - part channel
 - !say <#channel> message - say msg in channel 
 - !nick <new_nick> - change nick bot
 - !uptime - Uptime your system
