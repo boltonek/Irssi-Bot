@@ -1,2 +1,3 @@
-# Irssi-Bot
-Irssi bot script
+Simple Irssi Script ( bot ) 
+
+
