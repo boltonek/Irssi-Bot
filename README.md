@@ -9,11 +9,11 @@ Simple Irssi Script ( bot ) perl - current version of Irrsi bot 1.0
 - !ban <#channel> nick - +b/ban nick on channel
 - !voice <#channel> nick - +v/voice nick in channel
 - !topic <#channel> text - set topic in channel 
-- !join <#channel> - join channel
-- !part <#channel> - part channel
+- !join <#channel> - join in channel
+- !part <#channel> - part off channel
 - !say <#channel> message - say msg in channel 
 - !nick <new_nick> - change nick bot
-- !uptime - Uptime your system
+- !uptime - Uptime your system and load
 - !version - Version your OS
 - !addadmin <ident@host>  - in private msg or channel !addadmin admin@admin.com
 - !deladmin <ident@host>  - in private msg or channel !deladmin admin@admin.com
