@@ -13,7 +13,7 @@ Simple Irssi Script ( bot ) perl - current version of Irrsi bot 1.0
 - !part <#channel> - part off channel
 - !say <#channel> message - say msg in channel 
 - !nick <new_nick> - change nick bot
-- !uptime - Uptime your system and load
+- !uptime - Uptime system and load
 - !version - Version your OS
 - !addadmin <ident@host>  - in private msg or channel !addadmin admin@admin.com
 - !deladmin <ident@host>  - in private msg or channel !deladmin admin@admin.com
