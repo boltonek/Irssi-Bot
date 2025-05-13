@@ -5,25 +5,25 @@ Simple Irssi Script ( bot ) perl - current version of Irrsi bot 1.0
 
 ## Features
 
-- !op <#channel> nick - get +o/@ nick 
-- !ban <#channel> nick - +b/ban nick on channel
-- !voice <#channel> nick - +v/voice nick in channel
-- !topic <#channel> text - set topic in channel 
-- !join <#channel> - join in channel
-- !part <#channel> - part off channel
-- !say <#channel> message - say msg in channel 
-- !nick <new_nick> - change nick bot
-- !uptime - Uptime system and load
-- !version - Version your OS
-- !addadmin <ident@host>  - in private msg or channel !addadmin admin@admin.com
-- !deladmin <ident@host>  - in private msg or channel !deladmin admin@admin.com
-- !listadmins - list admins ident@host
-- !deop <#channel> nick - remove +o/@ nick on channel
-- !devoice <#channel> nick - -v/voice nick in channel
-- !kick <#channel> nick - kick users in channel
-- !host <ip_address> - find out the name of ipv4
-- !keepnick - trying to get a nickname, checking the availability of every 30sec
-- !stopkeepnick - keepnick disabled
+- !op <#channel> nick = get +o/@ nick 
+- !ban <#channel> nick = +b/ban nick on channel
+- !voice <#channel> nick = +v/voice nick in channel
+- !topic <#channel> text = set topic in channel 
+- !join <#channel> = join in channel
+- !part <#channel> = part off channel
+- !say <#channel> message = say in channel msg
+- !nick <new_nick> = change nick bot
+- !uptime = Uptime system and load
+- !version = Version your OS
+- !addadmin <ident@host>  = in private msg or channel !addadmin admin@admin.com
+- !deladmin <ident@host>  = in private msg or channel !deladmin admin@admin.com
+- !listadmins = list admins ident@host
+- !deop <#channel> nick = remove +o/@ nick on channel
+- !devoice <#channel> nick = -v/voice nick in channel
+- !kick <#channel> nick = kick users in channel
+- !host <ip_address> = find out the name of ipv4
+- !keepnick = trying to get a nickname, checking the availability of every 30sec
+- !stopkeepnick = keepnick disabled
 ---
 ## Installation
 
